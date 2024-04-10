@@ -1,2 +1,5 @@
-jupyterlab
-jupyterlab-link-share
+jupyterlab-link-share~=0.2
+retrolab==0.3.13
+matplotlib
+numpy
+nbgitpuller
